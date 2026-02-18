@@ -117,13 +117,10 @@ Fast shapelet discovery is automatically triggered the first time a dataset is p
 ## 📜 Citation
 
 ```
-@misc{peng2026shapecondfastshapeletguideddataset,
-      title={ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification}, 
-      author={Sijia Peng and Yun Xiong and Xi Chen and Yi Xie and Guanzhi Li and Yanwei Yu and Yangyong Zhu and Zhiqiang Shen},
-      year={2026},
-      eprint={2602.09008},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2602.09008}, 
+@article{peng2026shapecond,
+  title={ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification},
+  author={Peng, Sijia and Xiong, Yun and Chen, Xi and Xie, Yi and Li, Guanzhi and Yu, Yanwei and Zhu, Yangyong and Shen, Zhiqiang},
+  journal={arXiv preprint arXiv:2602.09008},
+  year={2026}
 }
 ```
