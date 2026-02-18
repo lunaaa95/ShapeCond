@@ -7,6 +7,7 @@
   **Official PyTorch Implementation**
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/lunaaa95/ShapeCond/blob/master/LICENSE)
+  [![arXiv](https://img.shields.io/badge/arXivpaper-2602.09008-b31b1b.svg)](https://arxiv.org/abs/2602.09008)&nbsp; 
   [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-3.90/)
   [![GitHub stars](https://img.shields.io/github/stars/Lunaaa95/ShapeCond)](https://github.com/Lunaaa95/ShapeCond)
 
@@ -116,4 +117,13 @@ Fast shapelet discovery is automatically triggered the first time a dataset is p
 ## 📜 Citation
 
 ```
+@misc{peng2026shapecondfastshapeletguideddataset,
+      title={ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification}, 
+      author={Sijia Peng and Yun Xiong and Xi Chen and Yi Xie and Guanzhi Li and Yanwei Yu and Yangyong Zhu and Zhiqiang Shen},
+      year={2026},
+      eprint={2602.09008},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.09008}, 
+}
 ```
